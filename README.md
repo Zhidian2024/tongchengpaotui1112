@@ -13,7 +13,7 @@
 
 ![extending-a-theme](/00.png)
 ![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
+![extending-a-theme](/002.png)
 ![extending-a-theme](/03.png)
 ![extending-a-theme](/04.png)
 ![extending-a-theme](/05.png)
