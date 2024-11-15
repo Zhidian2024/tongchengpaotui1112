@@ -27,5 +27,5 @@
 ![extending-a-theme](/13.png)
 ![extending-a-theme](/14.png)
 ![extending-a-theme](/15.png)
-![extending-a-theme](/lianxi.jpg)
+![extending-a-theme](/xiaomage.jpg)
 
